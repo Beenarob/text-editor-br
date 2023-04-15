@@ -15,5 +15,5 @@ https://text-editor-br.herokuapp.com/
 
 # Image 
 ScreenShot of Deployed Application
-(/assets/proof.png)
+![alt text](/assets/proof.png)
 
